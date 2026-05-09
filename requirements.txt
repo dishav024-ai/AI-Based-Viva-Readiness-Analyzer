@@ -1,5 +1,6 @@
 streamlit
 pandas
 numpy
-speechrecognition
-pyttsx3
+SpeechRecognition
+fpdf
+reportlab
